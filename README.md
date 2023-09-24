@@ -12,4 +12,4 @@ ADC1 (PC1) pin - Caliper Data pin
   
   
 
-TODO: Create better readme :)
+TODO: Clean the code, create better readme :)
