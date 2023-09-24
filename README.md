@@ -21,8 +21,8 @@ Command set is following:
 | pXXXXX  |  Continous mode update period in ms|
 | s       | Supress Timeouts|
 
-
-Change baud rate as you wish.
+I used internal oscillator at 8MHz. Built using MiniCore for Arduino. Pins PB0 and PB1 (8 and 9) are used as debug, they mirror the decoded bits from Caliper.
+You can change baud rate as you wish. 
 
 
 
